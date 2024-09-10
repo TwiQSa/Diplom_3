@@ -1,9 +1,5 @@
 from data import PageUrls
-from pages.main_page import MainPage
-from pages.login_page import LoginPage
-from pages.personal_account_page import PersonalPage
 import allure
-import pytest
 
 
 class TestPersonalProfilePage:

@@ -1,7 +1,4 @@
-from pages.main_page import MainPage
-from pages.order_feed_page import OrderFeedPage
 from locators import OrderFeedPageLocators
-import pytest
 import allure
 
 

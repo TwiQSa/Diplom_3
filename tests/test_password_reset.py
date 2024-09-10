@@ -1,9 +1,5 @@
-from pages.main_page import MainPage
-from pages.password_reset_page import PasswordResetPage
-from pages.login_page import LoginPage
 from data import UserData, PageUrls
 import allure
-import pytest
 
 
 class TestRecoveryPage:

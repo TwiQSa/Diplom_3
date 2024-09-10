@@ -1,8 +1,5 @@
 from data import PageUrls
-from locators import MainPageLocators
-from pages.main_page import MainPage
 import allure
-import pytest
 
 
 class TestMainPage:
